@@ -6,7 +6,7 @@ Projeto desenvolvido para ler os dados de uma conta bancária e, logo após, rea
    - valor do saque for superior ao limite de saque da conta.
 2. **Seguir o seguinte diagrama de classe:**
    
-   ![Diagrama de classe](https://github.com/LucasFrancoBN/exercicio_fixacao_composicao/blob/master/img/diagrama_classe.png)
+   ![Diagrama de classe](https://github.com/LucasFrancoBN/exercicio_fixacao_tratamento_excecoes/blob/master/img/diagrama_classe.png)
     
 
 ## Exemplo
